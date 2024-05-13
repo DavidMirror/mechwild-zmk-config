@@ -31,8 +31,8 @@ include:
 #    shield: puckbuddy
   - board: blackpill_f401cc
     shield: sugarglider
-  - board: blackpill_f401ce
-    shield: sugarglider
+#  - board: blackpill_f401ce
+#    shield: sugarglider
 #  - board: pillbug
 #    shield: waka60
 #  - board: nice_nano
